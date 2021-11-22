@@ -16,6 +16,13 @@ To install the program, download the git repo and run the Jupyter Notebook
 
 <br/>
 
+## Elbow curves
+<img width="1261" alt="Screen Shot 2021-11-21 at 6 52 33 PM" src="https://user-images.githubusercontent.com/17937188/142784091-823b0d41-d84a-47b3-bffb-63c6a9703a9e.png">
+<img width="752" alt="Screen Shot 2021-11-21 at 6 54 14 PM" src="https://user-images.githubusercontent.com/17937188/142784109-d3c6ee7b-b38a-49ee-a07d-0471e930971f.png">
+
+## Cluster Plot
+<img width="1299" alt="Screen Shot 2021-11-21 at 6 57 21 PM" src="https://user-images.githubusercontent.com/17937188/142784196-3b9a6fac-fd7e-4414-b4b0-8a846236da6a.png">
+
 
 
 ## Contributors 
